@@ -1,0 +1,13 @@
+{
+	"people" : {
+		"persons" : 
+			[
+				{"id":1001, "firstname":"John", "lastname":"Peters" },
+				{"id":1002, "firstname":"Mary", "lastname":"Jones" },
+				{"id":1003, "firstname":"Sally", "lastname":"Reynolds" },
+				{"id":1004, "firstname":"Sam", "lastname":"Patrick" },
+				{"id":1005, "firstname":"Jane", "lastname":"Reynolds" },
+				{"id":1006, "firstname":"Tim", "lastname":"Connors" }
+			]
+	}
+}
